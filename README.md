@@ -56,22 +56,125 @@ Full Stack Development
 
 ---
 
-## 📱 Projects Highlight
+## 🌟 Featured Projects
 
-I work on various projects spanning:
-- **Web Applications** - Full Stack projects with Python/Node.js/PHP backend
-- **Mobile Apps** - Flutter-based cross-platform applications
-- **APIs** - RESTful backend services with Node.js & Python
-- **Frontend** - React.js responsive web applications
+<table>
+<tr>
+<td width="50%">
 
-*Check out my repositories below for detailed projects!*
+### 🌐 E-Commerce Platform
+**Full Stack Web Application**
+
+Build a complete e-commerce platform with:
+- ✨ React.js Frontend with modern UI
+- 🔐 Node.js & Express Backend
+- 💾 MySQL Database
+- 🛒 Cart & Payment Integration
+- 📦 Product Management System
+
+**Tech Stack:** React | Node.js | MySQL | Stripe API
+
+[View Project →](https://github.com/rasmiranjan-code)
+
+</td>
+<td width="50%">
+
+### 📱 Flutter Mobile App
+**Cross-Platform Mobile Application**
+
+Feature-rich mobile app with:
+- 📲 Beautiful UI/UX Design
+- 🎯 Native Performance
+- 🔄 Real-time Sync
+- 📍 Location Services
+- 🔐 User Authentication
+
+**Tech Stack:** Flutter | Firebase | REST APIs
+
+[View Project →](https://github.com/rasmiranjan-code)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 Task Management API
+**RESTful Backend Service**
+
+Powerful API with:
+- 📋 Task CRUD Operations
+- 👥 User Management
+- 🔑 JWT Authentication
+- 📊 Analytics & Reports
+- ⚡ High Performance
+
+**Tech Stack:** Node.js | Express | MySQL | JWT
+
+[View Project →](https://github.com/rasmiranjan-code)
+
+</td>
+<td width="50%">
+
+### 💼 Portfolio Website
+**Personal Showcase**
+
+Modern portfolio featuring:
+- 🎨 Responsive Design
+- ✨ Smooth Animations
+- 📧 Contact Form Integration
+- 🎯 SEO Optimized
+- 📱 Mobile Friendly
+
+**Tech Stack:** React | JavaScript | CSS3
+
+[View Project →](https://github.com/rasmiranjan-code)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Project Statistics
+
+| Category | Details |
+|----------|---------|
+| **Web Applications** | Full Stack projects with modern frameworks |
+| **Mobile Apps** | Cross-platform Flutter applications |
+| **Backend Services** | RESTful APIs & Microservices |
+| **Frontend Projects** | React.js & Responsive Web Design |
+| **Database Design** | MySQL optimization & architecture |
+
+---
+
+## 🎓 Project Categories
+
+### 🔥 Most Impressive
+- Full-featured e-commerce platforms
+- Real-time collaborative applications
+- AI-powered solutions
+
+### 💪 Challenging Projects
+- Complex state management
+- Performance optimization
+- Scalable architecture design
+
+### 🧪 Learning Projects
+- Experimenting with new technologies
+- Building prototypes
+- Contributing to open-source
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 GitHub: [@rasmiranjan-code](https://github.com/rasmiranjan-code)
-- 📧 Feel free to reach out for collaboration or discussions
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-rasmiranjan--code-black?style=for-the-badge&logo=github)](https://github.com/rasmiranjan-code)
+[![Email](https://img.shields.io/badge/Email-rasmijena516%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rasmijena516@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+
+</div>
 
 ---
 
@@ -82,6 +185,15 @@ I work on various projects spanning:
 - 🔗 Interested in building full-featured applications from scratch
 - 📚 Believe in continuous learning and growth
 - 💻 Passionate about both frontend and backend development
+- 🌍 Open to remote opportunities and collaborations
+
+---
+
+## 📌 Quick Links
+
+- 🔍 [View All Repositories](https://github.com/rasmiranjan-code?tab=repositories)
+- ⭐ [Starred Projects](https://github.com/rasmiranjan-code?tab=stars)
+- 📊 [GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=rasmiranjan-code)
 
 ---
 
@@ -89,4 +201,10 @@ I work on various projects spanning:
 
 ---
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=rasmiranjan-code&color=brightgreen)
+
 *Made with ❤️ by Rasmi Ranjan*
+
+</div>
