@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=FF1493&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Node.js+%7C+React;Flutter+%7C+MySQL;SaaS+Builder" alt="Typing Animation">
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=FF1493&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Node.js+%7C+React;Flutter+%7C+MySQL+Expert;Building+Scalable+Solutions;Let's+Create+Magic+Together!" alt="Typing SVG" /></a>
 
 ---
 
@@ -104,17 +104,13 @@
 
 ### Performance Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasmiranjan-code&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&animation=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasmiranjan-code&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasmiranjan-code&theme=radical&layout=compact&hide_border=true&animation=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasmiranjan-code&theme=radical&layout=compact&hide_border=false)
 
 ### Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasmiranjan-code&theme=radical&hide_border=true)
-
-### Profile Trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=rasmiranjan-code&theme=radical&row=1&column=6&no-frame=true&no-bg=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasmiranjan-code&theme=radical)
 
 </div>
 
