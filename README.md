@@ -46,71 +46,103 @@
 ### Backend Mastery
 
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="80" height="80" title="Python"/>
 </a>
 <a href="https://nodejs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="80" height="80" title="Node.js"/>
 </a>
 <a href="https://www.php.net/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="80" height="80" title="PHP"/>
 </a>
 
 ### Frontend Excellence
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" title="JavaScript"/>
 </a>
 <a href="https://react.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80" title="React"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80" height="80" title="HTML5"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="80" height="80" title="CSS3"/>
 </a>
 
 ### Mobile Innovation
 
 <a href="https://flutter.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="80" height="80" title="Flutter"/>
 </a>
 <a href="https://dart.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="80" height="80" title="Dart"/>
 </a>
 
 ### Database & Tools
 
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80" title="MySQL"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="80" height="80" title="Git"/>
 </a>
 <a href="https://github.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="80" height="80" title="GitHub"/>
 </a>
 <a href="https://firebase.google.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="80" height="80" title="Firebase"/>
 </a>
 
 </div>
 
 ---
 
-## GitHub Analytics
+## GitHub Analytics & Real Statistics
 
 <div align="center">
 
-### Performance Metrics
+### Performance Metrics - Live Data
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasmiranjan-code&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasmiranjan-code&theme=radical&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasmiranjan-code&theme=radical&layout=compact&hide_border=false)
+### Languages I Work With
 
-### Contribution Streak
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasmiranjan-code&theme=radical&layout=compact&hide_border=false&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasmiranjan-code&theme=radical)
+### My Contributions & Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasmiranjan-code&theme=radical&hide_border=false)
+
+</div>
+
+---
+
+## Real Project Languages Used
+
+<div align="center">
+
+### Active Projects & Tech Stack
+
+| Project | Language | Status | Type |
+|---------|----------|--------|------|
+| **Shree Technology Data Entry System** | PHP, MySQL, JavaScript | Active | SaaS Platform |
+| **KhataLink 2** | PHP, MySQL, JavaScript | Active | Accounting Solution |
+| **CrackRank** | Flutter, Dart, Firebase | In Development | Exam Prep App |
+| **Shree Technology Web** | HTML, CSS, JavaScript | Completed | Website |
+
+### Language Proficiency Breakdown
+
+```
+PHP                ████████████████░░  70% (SaaS Platforms)
+JavaScript         ███████████░░░░░░░  60% (Frontend & Backend)
+MySQL              ████████████░░░░░░  65% (Database Design)
+Flutter/Dart       █████████░░░░░░░░░  50% (Mobile Apps)
+React              ███████░░░░░░░░░░░  40% (Modern UIs)
+HTML/CSS           ████████░░░░░░░░░░  55% (Web Design)
+Python             █████░░░░░░░░░░░░░  35% (Scripting)
+Node.js            ██████░░░░░░░░░░░░  45% (Backend Services)
+```
 
 </div>
 
@@ -119,65 +151,69 @@
 ## Featured Projects Showcase
 
 <div align="center">
-  <h3>My Best Work</h3>
+  <h3>My Best Work - Real Projects</h3>
 </div>
 
 <table>
 <tr>
 <td width="50%">
 
-### Shree Technology Data Entry System
-**Premium SaaS Platform**
+### 🏢 Shree Technology Data Entry System
+**Premium SaaS Platform** | **Production Ready**
 
 <img src="https://media.giphy.com/media/l3q2K6HIiNxLjBeeoo/giphy.gif?raw=true" width="100%" style="border-radius: 8px;" alt="Shree Tech"/>
 
-#### Features:
-- Multi-tier Authentication
-- Admin Dashboard with Analytics
-- Employee Portal for Operations
-- Client Management System
-- Real-time Reporting
+#### Key Features:
+✅ Multi-tier Authentication System
+✅ Admin Dashboard with Real-time Analytics
+✅ Employee Working Portal
+✅ Client Management Interface
+✅ Real-time Data Sync & Reporting
+✅ Secure Data Encryption
 
 **Tech Stack:**
-
 <a href="https://www.php.net/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45" title="PHP"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" title="MySQL"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" title="JavaScript"/>
 </a>
+
+**Status:** ⭐ Active Development (50+ days)
 
 [View Repository →](https://github.com/rasmiranjan-code/shreetechnologydataentrysystem)
 
 </td>
 <td width="50%">
 
-### KhataLink 2
-**Advanced Accounting Solution**
+### 📱 KhataLink 2
+**Advanced Accounting & Billing** | **Live Solution**
 
 <img src="https://media.giphy.com/media/3o6ZtpWzGHXGzpfO2I/giphy.gif?raw=true" width="100%" style="border-radius: 8px;" alt="KhataLink"/>
 
-#### Features:
-- Invoice Generation System
-- Expense Tracking Module
-- Financial Reports & Analytics
-- Smart Account Linking
-- Live Sync Technology
+#### Key Features:
+✅ Advanced Invoice Generation
+✅ Expense Tracking Module
+✅ Financial Analytics & Reports
+✅ Smart Account Linking System
+✅ Real-time Synchronization
+✅ Export to Multiple Formats
 
 **Tech Stack:**
-
 <a href="https://www.php.net/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45" title="PHP"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" title="MySQL"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" title="JavaScript"/>
 </a>
+
+**Status:** 🚀 Recently Launched
 
 [View Repository →](https://github.com/rasmiranjan-code/khatalink2)
 
@@ -186,64 +222,85 @@
 <tr>
 <td width="50%">
 
-### E-Commerce Platform
-**Full Stack Web Application**
+### 📚 CrackRank
+**Competitive Exam Preparation** | **Upcoming**
 
-<img src="https://media.giphy.com/media/xTka5Z8GnkQWXW4x8A/giphy.gif?raw=true" width="100%" style="border-radius: 8px;" alt="E-Commerce"/>
+<img src="https://media.giphy.com/media/3o85xIO33l7RlmLjIQ/giphy.gif?raw=true" width="100%" style="border-radius: 8px;" alt="CrackRank"/>
 
-#### Features:
-- Shopping Cart Management
-- Payment Integration
-- Order Tracking System
-- User Profiles & Wishlist
-- Advanced Search & Filters
+#### Key Features:
+✅ NEET, JEE, CUET Prep
+✅ Full-length Mock Tests
+✅ Performance Analytics
+✅ NCERT Resources
+✅ Student Collaboration
+✅ Cross-platform Support
 
 **Tech Stack:**
+<a href="https://flutter.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45" title="Flutter"/>
+</a>
+<a href="https://dart.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45" title="Dart"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="45" height="45" title="Firebase"/>
+</a>
 
-<a href="https://react.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
+**Status:** 🔧 In Development
 
-[View Project →](https://github.com/rasmiranjan-code)
+[View Repository →](https://github.com/rasmiranjan-code/CrackRank)
 
 </td>
 <td width="50%">
 
-### Flutter Mobile App
-**Cross-Platform Solution**
+### 🌐 Shree Technology Web
+**Corporate Website** | **Live**
 
-<img src="https://media.giphy.com/media/3o85xIO33l7RlmLjIQ/giphy.gif?raw=true" width="100%" style="border-radius: 8px;" alt="Flutter"/>
+<img src="https://media.giphy.com/media/xTka5Z8GnkQWXW4x8A/giphy.gif?raw=true" width="100%" style="border-radius: 8px;" alt="Website"/>
 
-#### Features:
-- Responsive Design
-- Secure Authentication
-- Real-time Sync
-- Location Services
-- Modern UI/UX
+#### Key Features:
+✅ Responsive Web Design
+✅ SEO Optimized
+✅ Contact Form Integration
+✅ Service Portfolio
+✅ Mobile Friendly
+✅ Fast Loading
 
 **Tech Stack:**
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45" title="HTML5"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45" title="CSS3"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" title="JavaScript"/>
+</a>
 
-<a href="https://flutter.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-</a>
-<a href="https://dart.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40"/>
-</a>
+**Status:** ✅ Production Ready
 
-[View Project →](https://github.com/rasmiranjan-code)
+[View Repository →](https://github.com/rasmiranjan-code/shreetechnology_web)
 
 </td>
 </tr>
 </table>
+
+---
+
+## Why Hire Me? 💼
+
+<div align="center">
+
+| Expertise | Details | Proof |
+|-----------|---------|-------|
+| **Backend Development** | PHP, Node.js, Python | 3+ active projects |
+| **Frontend Skills** | React, JavaScript, HTML/CSS | Multiple responsive UIs |
+| **Mobile Development** | Flutter & Dart | CrackRank (in progress) |
+| **Database Design** | MySQL optimization & architecture | Complex SaaS systems |
+| **SaaS Development** | Full-stack platforms | 2+ production systems |
+| **Real-time Features** | Live sync & analytics | Multiple implementations |
+
+</div>
 
 ---
 
@@ -270,20 +327,20 @@
 ONGOING PROJECTS:
 
 ┌─────────────────────────────────────┐
-│ Shree Tech Data Entry System       │
-│    ├─ Active Development            │
+│ 🏢 Shree Tech Data Entry System    │
+│    ├─ Active Development (50 days) │
 │    ├─ Multi-user Admin Panel        │
 │    └─ Real-time Analytics           │
 │                                     │
-│ KhataLink 2                         │
+│ 💰 KhataLink 2                      │
 │    ├─ Financial Module              │
 │    ├─ Report Generation             │
-│    └─ Mobile Integration            │
+│    └─ Mobile Integration (soon)     │
 │                                     │
-│ E-Commerce Platform                │
-│    ├─ Payment Gateway               │
-│    ├─ Inventory Mgmt                │
-│    └─ Order Fulfillment             │
+│ 📚 CrackRank                        │
+│    ├─ Flutter Mobile App            │
+│    ├─ Firebase Backend              │
+│    └─ Multi-exam Support            │
 └─────────────────────────────────────┘
 ```
 
@@ -310,11 +367,12 @@ ONGOING PROJECTS:
 
 | Metric | Value |
 |--------|-------|
-| Languages Known | 7+ |
-| Frameworks | 10+ |
-| Projects | 20+ |
-| Years Experience | 3+ |
-| SaaS Projects | 2+ |
+| **Languages Known** | 8+ |
+| **Active Projects** | 4+ |
+| **SaaS Platforms** | 2+ |
+| **Repositories** | 5+ |
+| **Development Experience** | 3+ Years |
+| **Code Quality** | Production Ready |
 
 </div>
 
@@ -329,18 +387,26 @@ ONGOING PROJECTS:
 | Always exploring cutting-edge technologies | Love creating beautiful & functional interfaces |
 | Problem solver at heart | Passionate about scalable architecture |
 | Continuous learner & knowledge enthusiast | Open to global opportunities & collaborations |
+| Expert in Full Stack Development | Building products that users love |
 
 </div>
 
 ---
 
-## Useful Links
+## My Repository Highlights
 
 <div align="center">
 
-[All Repositories](https://github.com/rasmiranjan-code?tab=repositories) • 
-[Starred Projects](https://github.com/rasmiranjan-code?tab=stars) • 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasmiranjan-code)
+### All My Repositories
+
+🔗 [View All Repositories](https://github.com/rasmiranjan-code?tab=repositories) • 
+⭐ [Starred Projects](https://github.com/rasmiranjan-code?tab=stars)
+
+**Latest Projects:**
+1. **CrackRank** - Exam preparation platform (Flutter)
+2. **KhataLink 2** - Accounting system (PHP)
+3. **Shree Technology Data Entry** - SaaS platform (PHP)
+4. **Shree Technology Web** - Corporate website (HTML/CSS)
 
 </div>
 
@@ -351,6 +417,8 @@ ONGOING PROJECTS:
 <img src="https://media.giphy.com/media/LnQjgFWDg85N2nn6Os/giphy.gif?raw=true" width="80" alt="Celebration"/>
 
 ### If my work interests you, feel free to star my repositories!
+
+**Your support motivates me to create better projects!** ⭐
 
 <img src="https://media.giphy.com/media/LnQjgFWDg85N2nn6Os/giphy.gif?raw=true" width="80" alt="Celebration"/>
 
@@ -367,5 +435,7 @@ ONGOING PROJECTS:
 <div align="center">
 
 ### "Code is Poetry, Building is Art"
+
+**Building solutions that matter!** 💻✨
 
 </div>
