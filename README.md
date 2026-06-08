@@ -62,6 +62,42 @@ Full Stack Development
 <tr>
 <td width="50%">
 
+### 🏢 Shree Technology Data Entry System
+**SaaS Platform - Full Stack**
+
+Complete SaaS solution featuring:
+- 👨‍💼 Admin Panel with full control
+- 👨‍💻 Employee Working Portal
+- 👥 Client Management Site
+- 🔐 Authentication & Security
+- 📊 Full Data Management System
+
+**Tech Stack:** PHP | MySQL | JavaScript
+
+[View Project →](https://github.com/rasmiranjan-code/shreetechnologydataentrysystem)
+
+</td>
+<td width="50%">
+
+### 📱 KhataLink 2
+**Accounting & Billing Solution**
+
+Modern accounting platform with:
+- 💰 Invoice & Bill Management
+- 📋 Account Tracking
+- 🧾 Financial Reports
+- 🔗 Smart Linking System
+- ⚡ Real-time Updates
+
+**Tech Stack:** PHP | MySQL | JavaScript
+
+[View Project →](https://github.com/rasmiranjan-code/khatalink2)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🌐 E-Commerce Platform
 **Full Stack Web Application**
 
@@ -95,42 +131,6 @@ Feature-rich mobile app with:
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-### 🚀 Task Management API
-**RESTful Backend Service**
-
-Powerful API with:
-- 📋 Task CRUD Operations
-- 👥 User Management
-- 🔑 JWT Authentication
-- 📊 Analytics & Reports
-- ⚡ High Performance
-
-**Tech Stack:** Node.js | Express | MySQL | JWT
-
-[View Project →](https://github.com/rasmiranjan-code)
-
-</td>
-<td width="50%">
-
-### 💼 Portfolio Website
-**Personal Showcase**
-
-Modern portfolio featuring:
-- 🎨 Responsive Design
-- ✨ Smooth Animations
-- 📧 Contact Form Integration
-- 🎯 SEO Optimized
-- 📱 Mobile Friendly
-
-**Tech Stack:** React | JavaScript | CSS3
-
-[View Project →](https://github.com/rasmiranjan-code)
-
-</td>
-</tr>
 </table>
 
 ---
@@ -139,6 +139,7 @@ Modern portfolio featuring:
 
 | Category | Details |
 |----------|---------|
+| **SaaS Projects** | Admin & Employee Management Systems |
 | **Web Applications** | Full Stack projects with modern frameworks |
 | **Mobile Apps** | Cross-platform Flutter applications |
 | **Backend Services** | RESTful APIs & Microservices |
@@ -150,12 +151,14 @@ Modern portfolio featuring:
 ## 🎓 Project Categories
 
 ### 🔥 Most Impressive
+- **Shree Technology Data Entry System** - Multi-user SaaS platform
+- **KhataLink 2** - Advanced accounting solution
 - Full-featured e-commerce platforms
 - Real-time collaborative applications
-- AI-powered solutions
 
 ### 💪 Challenging Projects
 - Complex state management
+- Multi-user authentication systems
 - Performance optimization
 - Scalable architecture design
 
@@ -163,6 +166,14 @@ Modern portfolio featuring:
 - Experimenting with new technologies
 - Building prototypes
 - Contributing to open-source
+
+---
+
+## 💡 Recent Work
+
+🚀 **Just Launched:**
+- **Shree Technology Data Entry System** - Professional SaaS with Admin, Employee & Client portals
+- **KhataLink 2** - Advanced financial management solution
 
 ---
 
