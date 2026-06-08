@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=FF1493&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Node.js+%7C+React;Flutter+%7C+MySQL+Expert;Building+Scalable+Solutions;Let's+Create+Magic+Together!" alt="Typing SVG" /></a>
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=FF1493&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Node.js+%7C+React;Flutter+%7C+MySql+%7C+Firebase;Building+Scalable+Solutions" alt="Typing SVG" />
 
 ---
 
@@ -6,7 +6,10 @@
   
 ### Welcome to My Digital Space
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?raw=true" width="600" height="300" style="border-radius: 10px;" autoplay loop muted playsinline/>
+<video width="600" height="300" autoplay muted loop playsinline style="border-radius: 10px;">
+  <source src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" type="video/mp4">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?raw=true" width="600" height="300" style="border-radius: 10px;"/>
+</video>
 
 </div>
 
