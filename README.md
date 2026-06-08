@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=FF1493&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Node.js+%7C+React;Flutter+%7C+MySql+%7C+Firebase;Building+Scalable+Solutions" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=FF1493&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+Node.js+%7C+React;Flutter+%7C+MySQL;SaaS+Builder" alt="Typing Animation">
 
 ---
 
@@ -6,10 +6,7 @@
   
 ### Welcome to My Digital Space
 
-<video width="600" height="300" autoplay muted loop playsinline style="border-radius: 10px;">
-  <source src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" type="video/mp4">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?raw=true" width="600" height="300" style="border-radius: 10px;"/>
-</video>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?raw=true" width="600" height="300" style="border-radius: 10px;" alt="Welcome Animation"/>
 
 </div>
 
@@ -23,18 +20,18 @@
 
 ### Who Am I?
 
-<img align="left" width="50" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> **Full Stack Developer** crafting digital solutions
+<img align="left" width="50" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Dev"/> **Full Stack Developer** crafting digital solutions
 
-<img align="left" width="50" src="https://media.giphy.com/media/W5eoZHnM15MSd0bQiK/giphy.gif"> **Problem Solver** with passion for clean code
+<img align="left" width="50" src="https://media.giphy.com/media/W5eoZHnM15MSd0bQiK/giphy.gif" alt="Problem Solver"/> **Problem Solver** with passion for clean code
 
-<img align="left" width="50" src="https://media.giphy.com/media/du3J3cMeCS7dZD98SQ/giphy.gif"> **Tech Enthusiast** always exploring new technologies
+<img align="left" width="50" src="https://media.giphy.com/media/du3J3cMeCS7dZD98SQ/giphy.gif" alt="Tech"/> **Tech Enthusiast** always exploring new technologies
 
-<img align="left" width="50" src="https://media.giphy.com/media/SvckXvM2WesCzV8hu5/giphy.gif"> **SaaS Builder** creating enterprise solutions
+<img align="left" width="50" src="https://media.giphy.com/media/SvckXvM2WesCzV8hu5/giphy.gif" alt="Builder"/> **SaaS Builder** creating enterprise solutions
 
 </td>
 <td width="40%">
 
-<img src="https://media.giphy.com/media/SvckXvM2WesCzV8hu5/giphy.gif?raw=true" width="280" style="border-radius: 10px;" autoplay loop muted playsinline/>
+<img src="https://media.giphy.com/media/SvckXvM2WesCzV8hu5/giphy.gif?raw=true" width="280" style="border-radius: 10px;" alt="Coding"/>
 
 </td>
 </tr>
@@ -136,7 +133,7 @@
 ### Shree Technology Data Entry System
 **Premium SaaS Platform**
 
-<img src="https://media.giphy.com/media/l3q2K6HIiNxLjBeeoo/giphy.gif?raw=true" width="100%" style="border-radius: 8px;" autoplay loop muted playsinline/>
+<img src="https://media.giphy.com/media/l3q2K6HIiNxLjBeeoo/giphy.gif?raw=true" width="100%" style="border-radius: 8px;" alt="Shree Tech"/>
 
 #### Features:
 - Multi-tier Authentication
@@ -165,7 +162,7 @@
 ### KhataLink 2
 **Advanced Accounting Solution**
 
-<img src="https://media.giphy.com/media/3o6ZtpWzGHXGzpfO2I/giphy.gif?raw=true" width="100%" style="border-radius: 8px;" autoplay loop muted playsinline/>
+<img src="https://media.giphy.com/media/3o6ZtpWzGHXGzpfO2I/giphy.gif?raw=true" width="100%" style="border-radius: 8px;" alt="KhataLink"/>
 
 #### Features:
 - Invoice Generation System
@@ -196,7 +193,7 @@
 ### E-Commerce Platform
 **Full Stack Web Application**
 
-<img src="https://media.giphy.com/media/xTka5Z8GnkQWXW4x8A/giphy.gif?raw=true" width="100%" style="border-radius: 8px;" autoplay loop muted playsinline/>
+<img src="https://media.giphy.com/media/xTka5Z8GnkQWXW4x8A/giphy.gif?raw=true" width="100%" style="border-radius: 8px;" alt="E-Commerce"/>
 
 #### Features:
 - Shopping Cart Management
@@ -225,7 +222,7 @@
 ### Flutter Mobile App
 **Cross-Platform Solution**
 
-<img src="https://media.giphy.com/media/3o85xIO33l7RlmLjIQ/giphy.gif?raw=true" width="100%" style="border-radius: 8px;" autoplay loop muted playsinline/>
+<img src="https://media.giphy.com/media/3o85xIO33l7RlmLjIQ/giphy.gif?raw=true" width="100%" style="border-radius: 8px;" alt="Flutter"/>
 
 #### Features:
 - Responsive Design
