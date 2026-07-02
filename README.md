@@ -107,6 +107,46 @@
 
 ---
 
+## Live Activity & Recruiter Zone
+
+<div align="center">
+
+### 📈 Recent Activity Graph (Last 31 Days)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rasmiranjan-code&theme=react-dark&hide_border=true)
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=rasmiranjan-code&theme=radical&no-frame=true&row=1&column=7)
+
+### 🐍 Contribution Snake
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/rasmiranjan-code/rasmiranjan-code/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+<!--END_SECTION:snake-->
+
+### ⚡ Recent GitHub Activity (Auto-updates on every push/commit)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</div>
+
+---
+
+## Let's Connect & Build Something Great 🤝
+
+<div align="center">
+
+**Open to full-time roles, freelance projects, and collaborations!**
+
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-rasmijena516%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasmijena516@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge)](https://github.com/rasmiranjan-code)
+
+</div>
+
+---
+
 ## Real Project Languages Used
 
 <div align="center">
