@@ -14,26 +14,30 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="60%">
+<div align="center">
 
 ### Who Am I?
 
-<img align="left" width="50" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Dev"/> **Full Stack Developer** crafting digital solutions
+<img src="https://media.giphy.com/media/SvckXvM2WesCzV8hu5/giphy.gif?raw=true" width="220" style="border-radius: 10px;" alt="Coding"/>
 
-<img align="left" width="50" src="https://media.giphy.com/media/W5eoZHnM15MSd0bQiK/giphy.gif" alt="Problem Solver"/> **Problem Solver** with passion for clean code
+</div>
 
-<img align="left" width="50" src="https://media.giphy.com/media/du3J3cMeCS7dZD98SQ/giphy.gif" alt="Tech"/> **Tech Enthusiast** always exploring new technologies
-
-<img align="left" width="50" src="https://media.giphy.com/media/SvckXvM2WesCzV8hu5/giphy.gif" alt="Builder"/> **SaaS Builder** creating enterprise solutions
-
-</td>
-<td width="40%">
-
-<img src="https://media.giphy.com/media/SvckXvM2WesCzV8hu5/giphy.gif?raw=true" width="280" style="border-radius: 10px;" alt="Coding"/>
-
-</td>
+<table>
+<tr>
+<td width="60" align="center"><img width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Dev"/></td>
+<td><strong>Full Stack Developer</strong> crafting digital solutions</td>
+</tr>
+<tr>
+<td width="60" align="center"><img width="40" src="https://media.giphy.com/media/W5eoZHnM15MSd0bQiK/giphy.gif" alt="Problem Solver"/></td>
+<td><strong>Problem Solver</strong> with passion for clean code</td>
+</tr>
+<tr>
+<td width="60" align="center"><img width="40" src="https://media.giphy.com/media/du3J3cMeCS7dZD98SQ/giphy.gif" alt="Tech"/></td>
+<td><strong>Tech Enthusiast</strong> always exploring new technologies</td>
+</tr>
+<tr>
+<td width="60" align="center"><img width="40" src="https://media.giphy.com/media/SvckXvM2WesCzV8hu5/giphy.gif" alt="Builder"/></td>
+<td><strong>SaaS Builder</strong> creating enterprise solutions</td>
 </tr>
 </table>
 
@@ -43,56 +47,41 @@
 
 <div align="center">
 
-### Backend Mastery
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="80" height="80" title="Python"/>
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="80" height="80" title="Node.js"/>
-</a>
-<a href="https://www.php.net/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="80" height="80" title="PHP"/>
-</a>
-
-### Frontend Excellence
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" title="JavaScript"/>
-</a>
-<a href="https://react.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80" title="React"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80" height="80" title="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="80" height="80" title="CSS3"/>
-</a>
-
-### Mobile Innovation
-
-<a href="https://flutter.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="80" height="80" title="Flutter"/>
-</a>
-<a href="https://dart.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="80" height="80" title="Dart"/>
-</a>
-
-### Database & Tools
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80" title="MySQL"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="80" height="80" title="Git"/>
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="80" height="80" title="GitHub"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="80" height="80" title="Firebase"/>
-</a>
+<table>
+<tr>
+<th>Backend Mastery</th>
+<th>Frontend Excellence</th>
+</tr>
+<tr>
+<td align="center">
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50" title="Python"/></a>&nbsp;
+<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" title="Node.js"/></a>&nbsp;
+<a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" title="PHP"/></a>
+</td>
+<td align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/></a>&nbsp;
+<a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" title="React"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" title="HTML5"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" title="CSS3"/></a>
+</td>
+</tr>
+<tr>
+<th>Mobile Innovation</th>
+<th>Database & Tools</th>
+</tr>
+<tr>
+<td align="center">
+<a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" title="Flutter"/></a>&nbsp;
+<a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" title="Dart"/></a>
+</td>
+<td align="center">
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" title="MySQL"/></a>&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50" title="Git"/></a>&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50" title="GitHub"/></a>&nbsp;
+<a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50" title="Firebase"/></a>
+</td>
+</tr>
+</table>
 
 </div>
 
